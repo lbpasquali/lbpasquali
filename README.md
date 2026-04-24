@@ -35,4 +35,4 @@ Currently focused on infrastructure automation, enterprise patching at scale, an
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo_Pasquali-blue)](https://linkedin.com/in/YOUR-PROFILE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lorenzo_Pasquali-blue)]([https://www.linkedin.com/in/lbpasquali/)
